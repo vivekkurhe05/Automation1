@@ -1,5 +1,0 @@
-{"id":7566096,"first_name":"Suresh","middle_name":"Pradeep","last_name":"Kumar","date_of_birth":"2023-03-12 00:00:00"}
-{"id":7566097,"first_name":"Pradeep","middle_name":"Nimbalagundi","last_name":"Kumar","date_of_birth":"2023-12-12 00:00:00"}
-{"id":7566098,"first_name":"Raghu","middle_name":"Nath","last_name":"Pradhan","date_of_birth":"2023-01-01 00:00:00"}
-{"id":7566099,"first_name":"Priyadarshan","middle_name":"Mid1","last_name":"Bahere","date_of_birth":"2023-05-05 00:00:00"}
-{"id":7566100,"first_name":"Sourav","middle_name":"Kumar","last_name":"Chattergee","date_of_birth":"2023-11-06 00:00:00"}

@@ -1,0 +1,39 @@
+{
+  "Permanent_Address": {
+    "House_Number": "2345",
+    "City": "Amravati",
+    "State": "Maharashtra",
+    "Country": "India",
+    "PhoneNumber": [
+      {
+        "Std_Code": "0721",
+        "Home": "651672",
+        "Mobile": "9823451867"
+      },
+      {
+        "Std_Code": "0721",
+        "Home": "893243",
+        "Mobile": "8983897126"
+      }
+    ]
+  },
+  "Current_Address": {
+    "House_Number": "9000",
+    "City": "Bangalore",
+    "State": "Karnataka",
+    "Country": "India",
+    "PhoneNumber": [
+      {
+        "Std_Code": "07254",
+        "Home": "67773",
+        "Mobile": "8231900024"
+      },
+      {
+        "Std_Code": "02367",
+        "Home": "677332",
+        "Mobile": "898346782"
+      }
+    ]
+  },
+  "stId": "sample string 1"
+}
